@@ -34,7 +34,7 @@ const Sidebar = ({ children }) => {
       icon: <IoNotifications />,
     },
     { path: "/profile", name: "Profile", icon: <CgProfile /> },
-    { path: "/logout", name: "Logout", icon: <IoIosLogOut /> },
+    { path: "/sign-in", name: "Logout", icon: <IoIosLogOut /> },
   ];
 
   return (
